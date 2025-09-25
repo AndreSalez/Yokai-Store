@@ -40,9 +40,6 @@
     text-decoration: none;
     color: var(--cor-principal3);
 }
-.container-pesquisa {
-    align-items: center;
-}
 .icon-pesquisa {
     width: 30px;
     height: 30px;
